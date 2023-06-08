@@ -1,0 +1,31 @@
+# Game Theory and its Relationship with Tic-Tac-Toe
+
+# Game Theory is a mathematical framework used to study strategic decision-making in competitive situations.
+# It analyzes the choices, actions, and outcomes in games to determine optimal strategies for players.
+
+# Tic-Tac-Toe is a simple game that can be analyzed using game theory concepts.
+# It is played on a 3x3 grid, and two players take turns marking X or O on empty spaces.
+
+# In Tic-Tac-Toe, the players have perfect information as they can see the entire state of the game at any point.
+# This makes it a game of perfect information, where there are no hidden elements or chance factors.
+
+# Tic-Tac-Toe is also a zero-sum game, meaning that the gain of one player is balanced by the loss of the other player.
+# If one player wins, the other player loses, and if the game ends in a draw, both players achieve an equal outcome.
+
+# Game theory helps us analyze the strategies and outcomes of Tic-Tac-Toe.
+# The game can be represented as a decision tree, with each node representing a game state and each edge representing a possible move.
+
+# By analyzing the decision tree, we can determine the optimal strategies for players to maximize their chances of winning.
+# These strategies involve selecting the best moves based on the current state and the possible future outcomes.
+
+# Tic-Tac-Toe has a relatively small decision tree, allowing us to compute the optimal strategy using brute force methods.
+# For example, we can use the Minimax algorithm to recursively evaluate all possible moves and choose the best one.
+
+# The optimal strategy in Tic-Tac-Toe guarantees that if both players play optimally, the game will always result in a draw.
+# This is known as a solved game, where the outcome is known with certainty, and optimal play leads to a predictable result.
+
+# However, in practice, players may not always play optimally, and there is still room for skill and strategy in the game.
+# Players can use tactics such as creating forks, blocking opponent's moves, or setting up traps to gain an advantage.
+
+# Overall, the relationship between game theory and Tic-Tac-Toe helps us understand the strategic aspects of the game,
+# determine the optimal moves, and predict the outcomes when both players play optimally.
